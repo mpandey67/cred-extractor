@@ -1,5 +1,7 @@
 # cred-extractor
 
+![edited_video (3)](https://user-images.githubusercontent.com/52518592/97043554-47dbe780-1590-11eb-82a7-71913fd6485a.gif)
+
 ## THIS TOOL WILL EXTRACT USERNAMES AND PASSWORD OVER HTTP/S
 
 ## REQUIRMENTS:
