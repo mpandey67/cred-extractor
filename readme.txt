@@ -18,6 +18,6 @@ python3 cred-extractor.py
 
 
 NOTE- 
-1.You can extrcat credentials over HTTP if you want to do it on https you can downgrade https to http.
+1.You can extract credentials over HTTP if you want to do it on https you can downgrade https to http.
 2.To sniff the credentials over the network you have to be at the middle of the connection for that you can use my pre built tool (middle-man) : https://github.com/mpandey67/middle-man
 
