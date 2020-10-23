@@ -11,6 +11,9 @@ pip3 install --pre scapy[complete]
 sudo pip install scapy-http
 
 TO RUN THE PROGRAM:
+git clone https://github.com/mpandey67/cred-extractor
+cd cred-extractor
+python3 cred-extractor.py
 
 
 
